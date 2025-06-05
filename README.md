@@ -77,8 +77,41 @@ Top important features include room type, neighborhood average price, and geogra
 - Automate data update and model retraining pipelines.  
 - Add PowerBI visualizations to present insights interactively.
 
-  ## Dependencies:
+## Tools, Technologies, and Dependencies
 
+This project leverages the following tools, libraries, and technologies:
+
+- **Programming Language:**  
+  - Python 3.x
+
+- **Data Analysis & Cleaning:**  
+  - pandas  
+  - numpy  
+
+- **Data Visualization:**  
+  - matplotlib  
+  - seaborn  
+  - plotly.express  
+
+- **Geospatial Analysis:**  
+  - geopy (for distance calculations)  
+
+- **Machine Learning:**  
+  - scikit-learn (preprocessing, pipeline, model selection)  
+  - XGBoost (XGBRegressor for regression modeling)  
+
+- **Clustering:**  
+  - scikit-learn KMeans  
+
+- **Other Tools:**  
+  - PowerBI (planned for future visualizations)  
+
+- **File Formats:**  
+  - CSV (for input dataset and exported results)  
+
+- **Development Environment:**  
+  - Standard Python IDE
+
+Make sure to install dependencies via `pip` before running the scripts, e.g.:  
 ```bash
-pip install pandas numpy scikit-learn xgboost geopy matplotlib seaborn plotly
-
+pip install pandas numpy matplotlib seaborn plotly geopy scikit-learn xgboost
