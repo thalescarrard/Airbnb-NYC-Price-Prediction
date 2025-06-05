@@ -1,0 +1,256 @@
+Feature,Importance
+room_type_Entire Home/Apt,0.21076192
+room_type_Private Room,0.09211061
+neighborhood_avg_price,0.043119553
+room_type_Shared Room,0.033986665
+zone_3,0.026166944
+neighbourhood_Midtown,0.022041082
+name_has_luxury,0.015926981
+neighbourhood_group_Manhattan,0.013661336
+log_host_listings,0.012828941
+neighbourhood_West Village,0.012522644
+neighbourhood_Financial District,0.011603677
+availability_365,0.009737266
+name_has_cozy,0.009180493
+neighbourhood_Brooklyn Heights,0.008797491
+neighbourhood_SoHo,0.008704324
+neighbourhood_East Elmhurst,0.008535307
+calculated_host_listings_count,0.00851433
+neighbourhood_Cypress Hills,0.007838597
+minimum_nights,0.007383368
+host_avg_reviews,0.0069886576
+neighbourhood_Kensington,0.006420294
+neighbourhood_East Flatbush,0.0064129033
+neighbourhood_Far Rockaway,0.006390103
+neighbourhood_group_Queens,0.006354351
+neighbourhood_Flushing,0.006305906
+neighbourhood_Riverdale,0.00615014
+zone_7,0.0061027557
+days_since_last_review,0.005900179
+neighbourhood_Gramercy,0.005840231
+neighbourhood_Cobble Hill,0.0056271767
+is_multi_host,0.005612758
+neighbourhood_Fort Greene,0.0056079435
+number_of_reviews,0.0054698177
+dist_to_manhattan,0.0053871577
+zone_4,0.0053442307
+neighbourhood_Boerum Hill,0.00527845
+name_length,0.0052198097
+neighbourhood_Canarsie,0.005177176
+neighbourhood_Longwood,0.0051272665
+neighbourhood_Battery Park City,0.0051096315
+neighbourhood_Clinton Hill,0.005081453
+neighbourhood_Chinatown,0.005053445
+neighbourhood_Theater District,0.0050122864
+neighbourhood_Fort Wadsworth,0.0049877926
+reviews_per_month,0.0049009854
+neighbourhood_Park Slope,0.00486389
+neighbourhood_Hell's Kitchen,0.004823795
+neighbourhood_Williamsburg,0.004764955
+neighbourhood_Civic Center,0.004752667
+neighbourhood_Chelsea,0.004720908
+zone_2,0.0047186385
+neighbourhood_Jamaica Estates,0.0046612914
+neighbourhood_Bedford-Stuyvesant,0.004642762
+neighbourhood_Tribeca,0.004638451
+neighbourhood_Flatiron District,0.004578647
+neighbourhood_Little Italy,0.0044283094
+neighbourhood_NoHo,0.0043557114
+neighbourhood_Sheepshead Bay,0.0042914883
+zone_6,0.004272603
+neighbourhood_Upper East Side,0.0042094816
+zone_0,0.004140349
+neighbourhood_East Village,0.0040378543
+neighbourhood_Westchester Square,0.0040370408
+neighbourhood_Lower East Side,0.004036621
+neighbourhood_Greenwich Village,0.0039976365
+neighbourhood_Crown Heights,0.003924365
+neighbourhood_Mott Haven,0.0038856003
+neighbourhood_Harlem,0.0038313814
+neighbourhood_Kips Bay,0.0037235362
+neighbourhood_Greenpoint,0.0037205126
+name_has_spacious,0.0037025805
+neighbourhood_Rockaway Beach,0.0036711774
+neighbourhood_Gowanus,0.003631405
+neighbourhood_Arverne,0.0036287091
+neighbourhood_Carroll Gardens,0.0036085728
+neighbourhood_Williamsbridge,0.0033769766
+name_has_modern,0.0033616913
+neighbourhood_Arrochar,0.003342428
+neighbourhood_Jamaica,0.003298912
+neighbourhood_Prospect Heights,0.0032931834
+neighbourhood_Upper West Side,0.003245725
+neighbourhood_Elmhurst,0.003152864
+neighbourhood_Fresh Meadows,0.0030927376
+neighbourhood_Ditmars Steinway,0.0030481017
+neighbourhood_Stapleton,0.0030081123
+neighbourhood_Prospect-Lefferts Gardens,0.0030003763
+neighbourhood_group_Brooklyn,0.0029957031
+is_top_host,0.0029513882
+neighbourhood_Bay Ridge,0.0029047034
+neighbourhood_group_Bronx,0.002888615
+neighbourhood_City Island,0.0028422086
+neighbourhood_Nolita,0.0028325492
+neighbourhood_Murray Hill,0.002783099
+neighbourhood_Forest Hills,0.0027521143
+neighbourhood_Pelham Gardens,0.0027516624
+neighbourhood_Astoria,0.0027449913
+neighbourhood_South Slope,0.002632335
+neighbourhood_Stuyvesant Town,0.0025447856
+neighbourhood_Two Bridges,0.002515744
+neighbourhood_Woodside,0.0025042805
+neighbourhood_College Point,0.0024735755
+neighbourhood_Morningside Heights,0.002468444
+neighbourhood_Red Hook,0.0024376484
+neighbourhood_Kew Gardens Hills,0.002377295
+neighbourhood_Downtown Brooklyn,0.0023380509
+zone_1,0.0022044983
+neighbourhood_Washington Heights,0.002172558
+neighbourhood_Bushwick,0.0021592965
+neighbourhood_Parkchester,0.0021465071
+neighbourhood_Long Island City,0.0021012311
+neighbourhood_Sunset Park,0.002087335
+neighbourhood_South Ozone Park,0.0020708877
+zone_5,0.0020570185
+neighbourhood_Inwood,0.0020486205
+neighbourhood_Todt Hill,0.0020431678
+neighbourhood_St. Albans,0.0020404938
+neighbourhood_group_Staten Island,0.0019271609
+neighbourhood_Springfield Gardens,0.0018403516
+neighbourhood_Throgs Neck,0.0018170723
+neighbourhood_Flatlands,0.0017881701
+neighbourhood_Flatbush,0.0017793687
+neighbourhood_Rosedale,0.0017778609
+neighbourhood_Whitestone,0.0017754787
+neighbourhood_DUMBO,0.0017618313
+neighbourhood_Allerton,0.0017581614
+neighbourhood_Briarwood,0.00174172
+neighbourhood_Vinegar Hill,0.0017321174
+neighbourhood_Queens Village,0.0017304027
+neighbourhood_Shore Acres,0.0017114026
+neighbourhood_Coney Island,0.0016900396
+neighbourhood_Cambria Heights,0.0016542108
+neighbourhood_Clason Point,0.0015647908
+neighbourhood_Howard Beach,0.0015560299
+neighbourhood_Tottenville,0.0014125601
+neighbourhood_Bayside,0.0013902035
+neighbourhood_Great Kills,0.0013765324
+neighbourhood_Middle Village,0.0013710862
+neighbourhood_East Harlem,0.0012802171
+neighbourhood_East New York,0.0012789683
+neighbourhood_Columbia St,0.001271693
+neighbourhood_Eastchester,0.0012002491
+neighbourhood_Marble Hill,0.0011944347
+neighbourhood_Maspeth,0.0011858742
+neighbourhood_Windsor Terrace,0.001144644
+neighbourhood_Belle Harbor,0.0010989795
+neighbourhood_Grymes Hill,0.0010441093
+neighbourhood_Holliswood,0.0010220992
+neighbourhood_Kingsbridge,0.0009369561
+neighbourhood_New Brighton,0.00091512996
+neighbourhood_Norwood,0.00083143555
+neighbourhood_Clifton,0.0007588851
+neighbourhood_Port Morris,0.00069004635
+neighbourhood_Rego Park,0.0006091262
+neighbourhood_Concord,0.00053497555
+neighbourhood_Fordham,0.00045725677
+neighbourhood_Hunts Point,0.00038097386
+neighbourhood_Schuylerville,0.0003447833
+neighbourhood_Dyker Heights,0.0002421357
+neighbourhood_Sunnyside,0.00018866967
+neighbourhood_Highbridge,0.00017422184
+neighbourhood_Midland Beach,0.00013186503
+neighbourhood_Bensonhurst,0.000117174255
+neighbourhood_Soundview,0.000104277475
+neighbourhood_Fieldston,2.7019261e-05
+no_reviews,0.0
+neighbourhood_Bayswater,0.0
+neighbourhood_Baychester,0.0
+neighbourhood_Edgemere,0.0
+neighbourhood_East Morrisania,0.0
+neighbourhood_Castle Hill,0.0
+neighbourhood_Concourse,0.0
+neighbourhood_Corona,0.0
+neighbourhood_Concourse Village,0.0
+neighbourhood_Douglaston,0.0
+neighbourhood_Dongan Hills,0.0
+neighbourhood_Co-op City,0.0
+neighbourhood_Claremont Village,0.0
+neighbourhood_Castleton Corners,0.0
+neighbourhood_Bay Terrace,0.0
+neighbourhood_Bath Beach,0.0
+neighbourhood_Arden Heights,0.0
+"neighbourhood_Bay Terrace, Staten Island",0.0
+neighbourhood_Belmont,0.0
+neighbourhood_Borough Park,0.0
+neighbourhood_Bergen Beach,0.0
+neighbourhood_Bellerose,0.0
+neighbourhood_Breezy Point,0.0
+neighbourhood_Bronxdale,0.0
+neighbourhood_Brighton Beach,0.0
+neighbourhood_Brownsville,0.0
+neighbourhood_Bull's Head,0.0
+neighbourhood_Gravesend,0.0
+neighbourhood_Grant City,0.0
+neighbourhood_Graniteville,0.0
+neighbourhood_Glendale,0.0
+neighbourhood_Fort Hamilton,0.0
+neighbourhood_Edenwald,0.0
+neighbourhood_Eltingville,0.0
+neighbourhood_Emerson Hill,0.0
+neighbourhood_New Dorp,0.0
+neighbourhood_Morris Heights,0.0
+neighbourhood_Mill Basin,0.0
+neighbourhood_Morrisania,0.0
+neighbourhood_Mount Hope,0.0
+neighbourhood_Mount Eden,0.0
+neighbourhood_North Riverdale,0.0
+neighbourhood_Oakwood,0.0
+neighbourhood_Midwood,0.0
+neighbourhood_Morris Park,0.0
+neighbourhood_Laurelton,0.0
+neighbourhood_Kew Gardens,0.0
+neighbourhood_Hollis,0.0
+neighbourhood_Jackson Heights,0.0
+neighbourhood_Huguenot,0.0
+neighbourhood_Howland Hook,0.0
+neighbourhood_Jamaica Hills,0.0
+neighbourhood_Lighthouse Hill,0.0
+neighbourhood_Mariners Harbor,0.0
+neighbourhood_Melrose,0.0
+neighbourhood_Little Neck,0.0
+neighbourhood_Manhattan Beach,0.0
+neighbourhood_Navy Yard,0.0
+neighbourhood_Neponsit,0.0
+neighbourhood_Port Richmond,0.0
+neighbourhood_Pelham Bay,0.0
+neighbourhood_Ozone Park,0.0
+neighbourhood_Olinville,0.0
+neighbourhood_New Springville,0.0
+neighbourhood_New Dorp Beach,0.0
+neighbourhood_Sea Gate,0.0
+neighbourhood_South Beach,0.0
+neighbourhood_Richmond Hill,0.0
+neighbourhood_Randall Manor,0.0
+neighbourhood_Prince's Bay,0.0
+neighbourhood_Ridgewood,0.0
+neighbourhood_Richmondtown,0.0
+neighbourhood_Roosevelt Island,0.0
+neighbourhood_Rosebank,0.0
+neighbourhood_Rossville,0.0
+neighbourhood_St. George,0.0
+neighbourhood_Spuyten Duyvil,0.0
+neighbourhood_Silver Lake,0.0
+neighbourhood_Van Nest,0.0
+neighbourhood_Tompkinsville,0.0
+neighbourhood_University Heights,0.0
+neighbourhood_Unionport,0.0
+neighbourhood_Tremont,0.0
+neighbourhood_Westerleigh,0.0
+neighbourhood_Wakefield,0.0
+neighbourhood_West Brighton,0.0
+neighbourhood_West Farms,0.0
+neighbourhood_Willowbrook,0.0
+neighbourhood_Woodhaven,0.0
+neighbourhood_Woodlawn,0.0
+neighbourhood_Woodrow,0.0
